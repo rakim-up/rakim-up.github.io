@@ -1,0 +1,30 @@
+body {
+background-color:darkslategrey;
+text-align:center;
+font-family: 'Inconsolata', monospace;
+}
+
+header {
+text-align: left;
+}
+
+h1 {
+  font-size: 50pt;
+  margin: 20px;
+}
+
+h3 {
+font-size: 40pt;
+margin: 20px;
+}
+
+p {
+ font-size:20pt;
+ margin: 20px;
+}
+
+.white-text {
+  color:white;
+}
+
+

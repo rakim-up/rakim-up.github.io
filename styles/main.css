@@ -2,25 +2,31 @@ body {
 background-color:darkslategrey;
 text-align:center;
 font-family: 'Inconsolata', monospace;
+color:white;
 }
 
 header {
 text-align: left;
+font-size:45pt;
+color: yellow;
 }
 
 h1 {
-  font-size: 50pt;
+  font-size: 30pt;
   margin: 20px;
+  color:white;
 }
 
 h3 {
-font-size: 40pt;
+font-size: 30pt;
 margin: 20px;
+color:white;
 }
 
 p {
  font-size:20pt;
  margin: 20px;
+ color:white;
 }
 
 .white-text {

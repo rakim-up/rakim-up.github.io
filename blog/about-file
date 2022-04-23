@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="eng">
+<head>
+
+    <title>Rakim UP: blog/about</title>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" type="text/css" href="styles/main.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inconsolata:wght@200&display=swap" rel="stylesheet">
+
+   
+</head>>
+<body>
+    <header>Rakim UP: blog/about</header>
+  
+
+    
+    <p><a href="index.html">Home</a></p>
+</body>
+</html>

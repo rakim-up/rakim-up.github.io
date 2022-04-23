@@ -17,8 +17,7 @@
   <h1> The best practices associated with Classes & ID's</h1>
   <h3>What is a Class?</h3>
   <br>
-  <p>
-    A Class is a reusable template used to to define/group/target a subset of HTML elements.This is to apply styling or formatting to those elements with CSS.</p>
+  <p>A Class is a reusable template used to to define/group/target a subset of HTML elements.This is to apply styling or formatting to those elements with CSS.</p>
   <br>
   <h3>What is an ID?</h3>
   <br>

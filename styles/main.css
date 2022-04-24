@@ -18,8 +18,15 @@ h1 {
   margin: 0;
   color:white;
 }
+h2{
+  text-align: center;
+  font-size: 25pt;
+  margin: 0;
+  color:white;
+}
 
 h3 {
+  text-align: center;
   font-size: 35pt;
   margin-left: 5pt;
   color:white;
@@ -37,9 +44,7 @@ p {
   font-size:25pt;
 }
 
-h2{
-  margin: 0;
-}
+
 li{
   padding-left: 35px;
 }

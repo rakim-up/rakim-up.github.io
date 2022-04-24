@@ -19,6 +19,7 @@ h1 {
   color:white;
 }
 h2{
+  font-size: 25pt;
   margin: 0;
 }
 
@@ -44,4 +45,7 @@ p {
 
 li{
   padding-left: 35px;
+}
+.red-purple-text{
+  color: bisque; 
 }

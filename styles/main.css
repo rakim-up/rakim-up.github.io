@@ -29,6 +29,7 @@ p {
  font-size:20pt;
  margin: 20px;
  color:white;
+ text-align: center;
 }
 
 .white-text {
@@ -39,4 +40,6 @@ p {
 h2{
   margin: 0;
 }
-
+li{
+  padding-left: 35px;
+}

@@ -1,54 +1,30 @@
-body {
-background-color:darkslategrey;
-text-align:center;
-font-family: 'Inconsolata', monospace;
-color:white;
-margin: 0;
-line-height:1.6;
+h3{
+font-size: 70px; 
+padding-bottom: -120px; 
+margin-bottom: -80px;
+padding-top: -120px;
+margin-top: -20px;
 }
-
-header {
-  text-align: left;
-  font-size:35pt;
+h2{
+  font-size: 50px;
   color: yellow;
 }
 
-h1 {
-  font-size: 30pt;
-  margin: 0;
-  color:white;
-}
-h2{
-  font-size: 25pt;
-  margin: 0;
-}
-
-h3 {
- 
-  font-size: 35pt;
-  margin-left: 5pt;
-  color:white;
-}
-
-p {
- font-size:20pt;
- margin: 20px;
- color:white;
- text-align: center;
-}
-
-.white-text {
-  color:white;
-  font-size:25pt;
+/* Set the background color of body to tan */
+body {
+  background-color:wheat;
 }
 
 
-li{
-  padding-left: 35px;
+@media screen and (max-width: 992px) {
+  body {
+    background-color: orangered;
+  }
 }
-.red-purple-text{
-  color: bisque; 
-}
-#Blog-title{
-  font-size: 50pt;
+
+/* On screens that are 600px or less, set the background color to olive */
+@media screen and (max-width: 600px) {
+  body {
+    background-color: darkblue;
+  }
 }
